@@ -28,12 +28,21 @@ h2{
 	display: flex;
 	justify-content: center;
 	align-self: items: center;
-	padding: 80px;
+	padding: 60px;
 }
 
-/* FOOTER */
+
 
 footer{
 	background-color: gray;
 
+}
+
+.losLorem{
+	background-color: yellow;
+}
+
+
+.formularioCapture{
+	background-color: gray;
 }
