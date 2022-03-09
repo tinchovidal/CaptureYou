@@ -1,0 +1,37 @@
+.logoImg {
+  width: 100px;
+  height: 100px; }
+
+.nav-link {
+  font-size: 30px;
+  color: black;
+  font-family: helvetica; }
+
+nav {
+  background-color: yellow; }
+  nav ul {
+    display: flex; }
+    nav ul li {
+      text-decoration: none; }
+      nav ul li a {
+        color: violet; }
+        nav ul li a:hover {
+          color: darkred; }
+
+h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px;
+  font-family: helvetica; }
+
+.losLorem {
+  background-color: yellow;
+  font-family: "League Spartan", sans-serif; }
+
+.formularioCapture {
+  background-color: violet; }
+
+footer {
+  background-color: violet;
+  font-family: "League Spartan", sans-serif; }
