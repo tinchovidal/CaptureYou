@@ -25,6 +25,13 @@ h2 {
   padding: 60px;
   font-family: helvetica; }
 
+  h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px;
+  font-family: helvetica; }
+
 .losLorem {
   background-color: yellow;
   font-family: "League Spartan", sans-serif; }
@@ -58,7 +65,7 @@ footer {
   margin: 10px;
   padding: 20px; }
 
-.boton, .boton-aceptar, .boton-cancelar {
+.boton, .boton-aceptar, .boton-cancelar, .boton-next {
   background-color: white;
   width: 80px;
   height: 30px;
@@ -78,6 +85,11 @@ footer {
   color: black;
   border: 1px solid black;
   border-radius: 10px; }
+
+.boton-next {
+  background-color: red;
+  color: red;
+  border-radius: 20px; }
 
 p {
   color: black;
