@@ -1,3 +1,8 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
 h2{
 
 	display: flex;
@@ -7,8 +12,29 @@ h2{
 	font-family: $ff-secundaria;
 }
 
+h1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 60px;
+	font-family: $ff-secundaria;
+	background-color: $bgSecundario;
+
+}
+
+h3{
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 60px;
+	font-family: $ff-secundaria;
+}
+
+
+
 .losLorem{
-	background-color: $bgPrimario;
+	background-color: #6FB2D2;
 	font-family: $ff-primaria;
 }
 

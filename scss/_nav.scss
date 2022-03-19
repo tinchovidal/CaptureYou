@@ -12,7 +12,7 @@
 }
 
 nav {
-	background-color: $bgPrimario;
+	background-color: $bgSecundario;
 	ul{
 		display: flex;
 		li{
@@ -20,7 +20,7 @@ nav {
 			a {
 				color: $colorSecundario;
 				&:hover{
-					color: $colorSecundario;
+					color: $colorAgregado;
 				}
 			}
 		}
