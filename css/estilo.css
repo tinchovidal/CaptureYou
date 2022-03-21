@@ -7,6 +7,11 @@
   color: black;
   font-family: helvetica; }
 
+.nav-item {
+  font-size: 30px;
+  color: black;
+  font-family: helvetica; }
+
 nav {
   background-color: white; }
   nav ul {
@@ -50,6 +55,9 @@ h3 {
 
 .formularioCapture {
   background-color: violet; }
+
+.parrafoFluid {
+  font-size: 30px; }
 
 footer {
   background-color: black;
